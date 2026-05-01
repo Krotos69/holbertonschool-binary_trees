@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include "binary_trees.h"
 
-#define PRINT_WIDTH 255
+#define PRINT_WIDTH 50
 
 /**
  * _print_t - función recursiva que construye la representación del árbol
